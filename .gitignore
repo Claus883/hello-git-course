@@ -1,0 +1,6 @@
+*.stackdump
+.gitignore
+*.in
+*.out
+*.pyc
+
